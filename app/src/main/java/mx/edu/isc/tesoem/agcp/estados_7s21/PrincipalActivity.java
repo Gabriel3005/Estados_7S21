@@ -20,7 +20,7 @@ public class PrincipalActivity extends AppCompatActivity {
 
     Spinner splista;
     ImageView ivimagen;
-    List<String> Milista = new ArrayList<>(Arrays.asList("Selecciona un Estado","Veracruz", "Sonora", "Sinaloa", "Puebla", "Morelos","Campeche","Aguascalientes","Baja California","Baja California Sur","Coahuila","Colima","Chiapas","Chihuahua","Durango","Distrito Federal","Guanajuato","Guerro","Hidalgo","Jalisco","Michoacan","Nayarit","Nuevo Leon","Oaxaca","Queretaro","Quintana Roo","San luis Potesi","Tabasco","Tamaulipas","Tlaxcala","Yucatán","Zacatecas"));
+    List<String> Milista = new ArrayList<>(Arrays.asList("Seleciona un estado","Veracruz", "Sonora", "Sinaloa", "Puebla", "Morelos","Campeche","Aguascalientes","Baja California","Baja California Sur","Coahuila","Colima","Chiapas","Chihuahua","Durango","Distrito Federal","Guanajuato","Guerro","Hidalgo","Jalisco","Michoacan","Nayarit","Nuevo Leon","Oaxaca","Queretaro","Quintana Roo","San luis Potesi","Tabasco","Tamaulipas","Tlaxcala","Yucatán","Zacatecas"));
     ArrayAdapter<String> adaptador;
 
     @Override
